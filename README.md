@@ -1,0 +1,3 @@
+- hello, i'm al! :)
+- did you know i got github just cause i felt too lazy to do homework one day? nothing much to read here though
+- (p.s if you know what my username is referencing we should be best friends 👀)
