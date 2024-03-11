@@ -21,7 +21,7 @@
 - if i'm not playing games/drawing/cooking i'm either <strong>A)</strong> geeking about something <strong>B)</strong> doing work or <strong>C)</strong> sleeping
   
 - looking forward to being a software engineer or in cybersecurity
-<img src="https://github.com/cirrens/cirrens/blob/main/images/endSide.jpg" width="302">
+<img src="https://github.com/cirrens/cirrens/blob/main/images/endSide.jpg" width="304">
 
 </a></p>
 </div>
@@ -44,5 +44,5 @@
 <div style="margin-left: 100px;">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zmnh686r54dm0fzhye5l0vih3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-<img src=https://github.com/cirrens/cirrens/blob/main/images/endSide2.jpg align="right" width="450">
+<img src=https://github.com/cirrens/cirrens/blob/main/images/endSide2.jpg align="right" width="440">
 </div>
