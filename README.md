@@ -12,7 +12,7 @@
 - <strong>open to collaborating on projects/freelance work!</strong>
 <div>
   <br><br>
-<img align="left" src="https://github.com/cirrens/cirrens/blob/main/aboutSideBanner.png" style="width: 250px; height: 550px;">
+<img align="left" src="https://github.com/cirrens/cirrens/blob/main/aboutSideBanner.png" style="width: 350px; height: 650px;">
 
  <p align="right">
    
@@ -21,7 +21,7 @@
 - if i'm not playing games/drawing/cooking i'm either <strong>A)</strong> geeking about something <strong>B)</strong> doing work or <strong>C)</strong> sleeping
   
 - looking forward to being a software engineer or in cybersecurity
-<img src="https://github.com/cirrens/cirrens/blob/main/images/endSide.jpg" width="198">
+<img src="https://github.com/cirrens/cirrens/blob/main/images/endSide.jpg" width="298">
 
 </a></p>
 </div>
