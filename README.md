@@ -16,7 +16,7 @@
 
  <p align="right">
    
-[![Discord Presence](https://lanyard.cnrad.dev/api/408766687148769310?&borderRadius=1x&idleMessage=sleeping...)](https://discord.com/users/408766687148769310)
+[![Discord Presence](https://lanyard.cnrad.dev/api/408766687148769310?&bg=292D3E&borderRadius=1x&idleMessage=sleeping...)](https://discord.com/users/408766687148769310)
 
 - if i'm not playing games/drawing/cooking i'm either <strong>A)</strong> geeking about something <strong>B)</strong> doing work or <strong>C)</strong> sleeping
   
@@ -30,8 +30,8 @@
 <p><h1><strong>S T A T S</strong> </h1></p>
 <div align="left">
 
-![cirren's STATS](https://github-readme-stats.vercel.app/api?username=cirrens&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cirrens&theme=radical)
+![cirren's STATS](https://github-readme-stats.vercel.app/api?username=cirrens&show_icons=true&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cirrens&theme=material-palenight)
 - empty until i make stuff oops...
 
 - posting game mods/random QOL things soon!! :D
