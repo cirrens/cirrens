@@ -20,7 +20,7 @@
 
 - if i'm not playing games/drawing/cooking i'm either <strong>A)</strong> geeking about something <strong>B)</strong> doing work or <strong>C)</strong> sleeping
   
-- looking forward to being a software engineer or in cybersecurity
+- looking forward to being a software engineer or in cybersecurity (orrr game dev)
 <img src="https://github.com/cirrens/cirrens/blob/main/images/endSide.jpg" width="307">
 
 </a></p>
