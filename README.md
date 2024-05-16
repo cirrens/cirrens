@@ -1,7 +1,7 @@
 <h1>
 	<strong>A L?</strong>
 </h1>
-<img align="center" src="https://github.com/cirrens/cirrens/blob/main/endGifBanner.gif" width="1000">
+<img align="center" src="https://github.com/cirrens/cirrens/blob/main/images/endGifBanner.gif" width="1000">
 <p></p>
 <p>
   
@@ -15,7 +15,7 @@
 <div>
 	<br>
 	<br>
-	<img align="left" src="https://github.com/cirrens/cirrens/blob/main/aboutSideBanner.png" style="width: 350px; height: 650px;">
+	<img align="left" src="https://github.com/cirrens/cirrens/blob/main/images/aboutSideBanner.png" style="width: 350px; height: 650px;">
 	<p align="right">
     
   [![Discord Presence](https://lanyard.cnrad.dev/api/408766687148769310?&bg=292D3E&borderRadius=1x&idleMessage=sleeping...)](https://discord.com/users/408766687148769310)
