@@ -58,6 +58,6 @@
 		<p align="left">
 		<div style="margin-left: 100px;">
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zmnh686r54dm0fzhye5l0vih3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](ttps://spotify-github-profile.kittinanx.com/api/view?uid=zmnh686r54dm0fzhye5l0vih3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
   <img src=https://github.com/cirrens/cirrens/blob/main/images/endSide2.jpg align="right" width="440">
 		</div>
