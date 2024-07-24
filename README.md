@@ -14,7 +14,6 @@
   - <strong>open to collaborating on projects/freelance work!</strong>
 <div>
 	<br>
-	<br>
 	<p align="right">
 	<img align="left" src="https://github.com/cirrens/cirrens/blob/main/images/aboutSideBanner.jpg" style="width: 400px; height: 700px;">
 		
