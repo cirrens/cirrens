@@ -15,19 +15,17 @@
 <div>
 	<br>
 	<br>
-	<img align="left" src="https://github.com/cirrens/cirrens/blob/main/images/aboutSideBanner.jpg" style="width: 400px; height: 650px;">
+	<img align="left" src="https://github.com/cirrens/cirrens/blob/main/images/aboutSideBanner.jpg" style="width: 400px; height: 700px;">
 	<p align="right">
     
-  
+  [![Discord Presence](https://lanyard.cnrad.dev/api/408766687148769310?&bg=292D3E&borderRadius=1x&idleMessage=away...)](https://discord.com/users/408766687148769310)
     
   - if i'm not playing games/drawing/cooking i'm either <strong>A)</strong> geeking about something <strong>B)</strong> doing work or <strong>C)</strong> sleeping
     
   - looking forward to being a swe (orrr game dev if i'm lucky)
 
   <img src="https://github.com/cirrens/cirrens/blob/main/images/endSide.jpg" width="307">
-  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/408766687148769310?&bg=292D3E&borderRadius=1x&idleMessage=away...)](https://discord.com/users/408766687148769310)
-  
+    
   </a>
   </p>
 </div>
