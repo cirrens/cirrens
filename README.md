@@ -15,7 +15,7 @@
 <div>
 	<br>
 	<br>
-	<img align="left" src="https://github.com/cirrens/cirrens/blob/main/images/aboutSideBanner.jpg" style="width: 350px; height: 650px;">
+	<img align="left" src="https://github.com/cirrens/cirrens/blob/main/images/aboutSideBanner.jpg" style="width: 400px; height: 650px;">
 	<p align="right">
     
   [![Discord Presence](https://lanyard.cnrad.dev/api/408766687148769310?&bg=292D3E&borderRadius=1x&idleMessage=away...)](https://discord.com/users/408766687148769310)
