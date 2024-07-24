@@ -36,9 +36,9 @@
 	</h1>
 	</p>
 	<div align="left">
-    
-  ![cirren's STATS](https://github-readme-stats.vercel.app/api?username=cirrens&show_icons=true&theme=material-palenight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cirrens&theme=material-palenight)
+
+  ![cirren's stats](https://github-readme-stats.vercel.app/api?username=cirrens&show_icons=true&theme=graywhite)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cirrens&layout=donut&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 	<p>
 	<h1 align="left">
