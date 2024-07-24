@@ -1,7 +1,7 @@
 <h1>
 	<strong>A L?</strong>
 </h1>
-<img align="center" src="https://github.com/cirrens/cirrens/blob/main/images/endGifBanner.gif" width="1000">
+<img align="center" src="https://github.com/cirrens/cirrens/blob/main/images/aboutBanner.jpg" width="1000">
 <p></p>
 <p>
   
