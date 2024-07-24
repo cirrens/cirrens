@@ -4,7 +4,6 @@
 <img align="center" src="https://github.com/cirrens/cirrens/blob/main/images/aboutTopBanner.jpg" width="800">
 <p></p>
 <p>
-  
   - <strong>hi, i'm al!</strong>
 
   - pursuing b.s in cs
@@ -13,7 +12,6 @@
     
   - <strong>open to collaborating on projects/freelance work!</strong>
 <div>
-	<br>
 	<p align="right">
 	<img align="left" src="https://github.com/cirrens/cirrens/blob/main/images/aboutSideBanner.jpg" style="width: 400px; height: 700px;">
 		
@@ -24,7 +22,6 @@
   - looking forward to being a swe (orrr game dev if i'm lucky)
 
   <img src="https://github.com/cirrens/cirrens/blob/main/images/endSide.jpg" width="350">
-
   </a>
   </p>
 </div>
@@ -39,7 +36,6 @@
   ![cirren's stats](https://github-readme-stats.vercel.app/api?username=cirrens&show_icons=true&theme=graywhite)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cirrens&layout=donut&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-	<p>
 	<h1 align="left">
 		<strong>T O O L S</strong>
 	</h1>
