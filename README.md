@@ -24,8 +24,9 @@
     
   - looking forward to being a swe (orrr game dev if i'm lucky)
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/408766687148769310?&bg=292D3E&borderRadius=1x&idleMessage=away...)](https://discord.com/users/408766687148769310)
   <img src="https://github.com/cirrens/cirrens/blob/main/images/endSide.jpg" width="307">
+  
+  [![Discord Presence](https://lanyard.cnrad.dev/api/408766687148769310?&bg=292D3E&borderRadius=1x&idleMessage=away...)](https://discord.com/users/408766687148769310)
   
   </a>
   </p>
