@@ -27,21 +27,24 @@
   </p>
 </div>
 <div>
+	<br>
 	<p>
 	<h1>
 		<strong>S T A T S</strong>
 	</h1>
 	</p>
 	<div align="left">
-
+		
   ![cirren's stats](https://github-readme-stats.vercel.app/api?username=cirrens&show_icons=true&theme=graywhite)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cirrens&layout=donut&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+<br>
 	<h1 align="left">
 		<strong>T O O L S</strong>
 	</h1>
 	<img width="120%" src="https://github.com/cirrens/cirrens/blob/main/images/allToolsBanner.png">
 	<div>
+		<br>
 		<p>
 		<h1 align="right">
 			<strong>N O W &nbsp; P L A Y I N G
